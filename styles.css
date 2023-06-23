@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(58, 63, 63);
+    
+}
+h1{
+    color: aliceblue;
+}
+ ul li {
+    color: brown;
+    font-style: oblique;
+ }
